@@ -15,7 +15,7 @@ public class Calculator01 extends Activity {
 
     //Déclaration des variables
     Button button0;
-    Button button1;
+    Button button1; //btn
     Button button2;
     Button button3;
     Button button4;
