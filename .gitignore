@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+calculator_.gradle_2.2.1_taskArtifacts_cache.properties.lock
+calculator_.gradle_2.2.1_taskArtifacts_fileHashes.bin
+calculator_.gradle_2.2.1_taskArtifacts_fileSnapshots.bin
+calculator_.gradle_2.2.1_taskArtifacts_outputFileStates.bin
+calculator_.gradle_2.2.1_taskArtifacts_taskArtifacts.bin

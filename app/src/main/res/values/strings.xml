@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_verbose">Verbose</string>
+    <string name="lien_activite_calculator01">Calculator N°1</string>
+
+</resources>
